@@ -13,7 +13,7 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=gorakhnathy7&color=blueviolet" alt="Gorakh's Profile Views" />
 </p>
-# 💫 About Me:
+<h3># 💫 About Me:<h3>
 <br>
 
 👨‍🎓 I am a final year student in Information Technology at MADAN MOHAN MALAVIYA UNIVERSITY OF TECHNOLOGY, GORAKHPUR.<br>🔭 I’m currently working on MERN stack applications<br>🌱 I’m currently learning Data Structures and Algorithms<br>👯 I’m looking to collaborate on projects<br>⚡ I like hindi Poetry and shayaris.
