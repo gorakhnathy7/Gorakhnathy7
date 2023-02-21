@@ -13,83 +13,16 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=gorakhnathy7&color=blueviolet" alt="Gorakh's Profile Views" />
 </p>
-
-### About me:
-- 👨‍🎓 I am a final year student in Information Technology at MADAN MOHAN MALAVIYA UNIVERSITY OF TECHNOLOGY, GORAKHPUR.
-- 🔭 I’m currently working on MERN stack applications
-- 🌱 I’m currently learning Data Structures and Algorithms
-- 👯 I’m looking to collaborate on projects
-- ⚡ I like hindi Poetry and shayaris.        
+# 💫 About Me:
+👨‍🎓 I am a final year student in Information Technology at MADAN MOHAN MALAVIYA UNIVERSITY OF TECHNOLOGY, GORAKHPUR.<br>🔭 I’m currently working on MERN stack applications<br>🌱 I’m currently learning Data Structures and Algorithms<br>👯 I’m looking to collaborate on projects<br>⚡ I like hindi Poetry and shayaris.
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gorakhnathyadav7/) 
 
-
-### Connect with me:
-
-[<img align="left" alt="Gorakhnath Yadav | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Gorakhnath Yadav | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Gorakhnath Yadav | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Gorakhnath Yadav | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
-
-
-<br />
-
-        
-        
-<h3>Languages and Tools:</h3>
-<p>
-    <img alt="Python" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-128.png"
-        height="40" width="40">
-    <img alt="JavaScript" width="40" height="40"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-    <img alt="CPP"
-        src="https://cdn.worldvectorlogo.com/logos/c.svg"
-        height="40" width="40">
-    <img alt="React" src="https://image.flaticon.com/icons/png/128/753/753244.png" height="40" width="40">
-    <img alt="Node.js" width="40" height="40"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-    <img alt="MongoDB" width="40" height="40"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-    <img alt='ExpressJS' width="40" height="40"
-        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS7RVaKE0ubjH_Ioi90MHiDzKw-GpNI1BsHw&usqp=CAU" />
-    <img alt="C"
-        src="https://cdn0.iconfinder.com/data/icons/mobile-device/512/letter-c-round-alphabet-latin-keyboard-2-128.png"
-        height="40" width="40">
-    <img alt="Bootstrap" width="40" height="40"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-    <img alt="TailwindCss"
-        src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg"
-        height="40" width="40">
-    <img alt="HTML5" width="40" height="40"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-    <img alt="CSS3" width="40" height="40"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-<img alt="Visual Studio Code" width="40" height="40"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-    <img alt="Git" width="40" height="40"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-    <img alt="GitHub" width="40" height="40"
-        src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-    <img alt="terminal" width="40" height="40"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-    
-    <img  alt="PHP" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
-<img  alt="Laravel" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />
-<img  alt="SQL" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img  alt="MySQL" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-</p>
-
-
-<a href="https://github.com/gorakhnathy7">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=gorakhnathy7&show_icons=true&include_all_commits=true&theme=solarized-dark" alt="Gorakh's github stats" />
-  </a>
-  <a href="https://github.com/gorakhnathy7">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gorakhnathy7&layout=compact&theme=solarized-dark" />
-  </a>
-
-
-<!-- links section   -->
-
-[linkedin]: https://www.linkedin.com/in/gorakhnathyadav7/
-[email]: mailto:gorakhcodes@gmail.com
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=gorakhnathy7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=gorakhnathy7&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gorakhnathy7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
