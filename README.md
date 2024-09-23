@@ -12,7 +12,7 @@ I love building developer communities, contributing to open-source, and working 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gorakhnathyadav7)
-
+[![Dev.to](https://img.shields.io/badge/Dev.to-%230A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/gorakh13)
 ### Previous Roles:
 - Developer Advocate at Scaler  
 - Technical Program Manager at Newton School  
