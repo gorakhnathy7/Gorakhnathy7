@@ -18,7 +18,6 @@ I love building developer communities, contributing to open-source, and working 
 - Technical Program Manager at Newton School  
 - Co-founder at Content Inc.
 
-## 💻 Contributions:
-- Total Contributions: **[Your total contributions number from GitHub](![](https://github-readme-stats.vercel.app/api?username=gorakhnathy7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-)**
-
+## 💻 Github Stats:
+![](https://github-readme-stats.vercel.app/api?username=gorakhnathy7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=gorakhnathy7&theme=dark&hide_border=false)<br/>
