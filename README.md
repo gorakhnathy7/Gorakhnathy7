@@ -19,5 +19,6 @@ I love building developer communities, contributing to open-source, and working 
 - Co-founder at Content Inc.
 
 ## 💻 Contributions:
-- Total Contributions: **[Your total contributions number from GitHub]**
+- Total Contributions: **[Your total contributions number from GitHub](![](https://github-readme-stats.vercel.app/api?username=gorakhnathy7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+)**
 
