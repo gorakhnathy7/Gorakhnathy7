@@ -2,16 +2,14 @@
     Hey there!</h1>
 
 
-<p>Welcome to my profile! </br> This is Gorakhnath Yadav from Gorakhpur, <img
-        src="https://cdn4.iconfinder.com/data/icons/world-flags-12/512/Untitled-2-19-128.png"
-        width="35" margin-top="3px"/> <b> India</b>
+<p>Welcome to my profile! </br> This is Gorakhnath Yadav from Gorakhpur,  <b> India</b>
 	</p>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=gorakhnathy7&color=blueviolet" alt="Gorakh's Profile Views" />
 </p>
 <h3># 💫 About Me:<h3>
 <br>
-
+<p>Welcome to my profile! </br> This is Gorakhnath Yadav from Gorakhpur<>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gorakhnathyadav7/) 
