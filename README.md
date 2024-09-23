@@ -1,9 +1,5 @@
 <h1><img src="https://slackmojis.com/emojis/781-camera/download" width="30" />
     Hey there!</h1>
-    
-<span style="margin:20px" >
-	<img src="https://slackmojis.com/emojis/39101-namaste/download" width="80" height="80" />
-</span>    
 
 
 <p>Welcome to my profile! </br> This is Gorakhnath Yadav from Gorakhpur, <img
@@ -15,8 +11,6 @@
 </p>
 <h3># 💫 About Me:<h3>
 <br>
-
-👨‍🎓 I am a final year student in Information Technology at MADAN MOHAN MALAVIYA UNIVERSITY OF TECHNOLOGY, GORAKHPUR.<br>🔭 I’m currently working on MERN stack applications<br>🌱 I’m currently learning Data Structures and Algorithms<br>👯 I’m looking to collaborate on projects<br>⚡ I like hindi Poetry and shayaris.
 
 
 ## 🌐 Socials:
