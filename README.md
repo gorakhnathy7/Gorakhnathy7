@@ -2,6 +2,7 @@
 
 Welcome to my profile!  
 I'm **Gorakhnath Yadav** from Gorakhpur, India.
+Currently working as a Developer Advocate at Hyperswitch(Juspay).
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=gorakhnathy7&color=blueviolet" alt="Profile Views" />
