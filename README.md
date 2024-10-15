@@ -16,8 +16,8 @@ I love building developer communities, contributing to open-source, and working 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gorakhnathyadav7)
 [![Dev.to](https://img.shields.io/badge/Dev.to-%230A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/gorakh13)
 ### Previous Roles:
-- Developer Advocate at @scaleracademy  
-- Technical Program Manager at @Newton-School  
+- Developer Advocate @scaleracademy  
+- Technical Program Manager @Newton-School  
 - Co-founder at Content Inc.
 
 ## 💻 Github Stats:
