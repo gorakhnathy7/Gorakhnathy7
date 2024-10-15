@@ -3,7 +3,7 @@
 Welcome to my profile!  
 I'm **Gorakhnath Yadav** from Gorakhpur, India.
 
-Currently working as a Developer Advocate at Hyperswitch (Juspay).
+Currently working as a **Developer Advocate at Hyperswitch (Juspay)**.
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=gorakhnathy7&color=blueviolet" alt="Profile Views" />
@@ -16,8 +16,8 @@ I love building developer communities, contributing to open-source, and working 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gorakhnathyadav7)
 [![Dev.to](https://img.shields.io/badge/Dev.to-%230A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/gorakh13)
 ### Previous Roles:
-- Developer Advocate at Scaler  
-- Technical Program Manager at Newton School  
+- Developer Advocate at @scaleracademy  
+- Technical Program Manager at @Newton-School  
 - Co-founder at Content Inc.
 
 ## 💻 Github Stats:
