@@ -21,5 +21,4 @@ I love building developer communities, contributing to open-source, and working 
 - Co-founder at Content Inc.
 
 ## 💻 Github Stats:
-![](https://github-readme-stats.vercel.app/api?username=gorakhnathy7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gorakhnathy7&theme=dark&hide_border=false)<br/>
