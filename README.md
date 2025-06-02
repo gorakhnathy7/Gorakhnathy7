@@ -14,8 +14,6 @@ I love at the intersection of tech, product, and education. Let's create somethi
 
 Crafting Developer Experience at Hyperswitch (Juspay).
 
-Checkout 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gorakhnathyadav7)
 [![Dev.to](https://img.shields.io/badge/Dev.to-%230A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/gorakh13)
